@@ -1,0 +1,95 @@
+
+, url(../Img/light_man_copy_26.png) 500px 800px border: 1px solid #000 no-repeat, url(../Img/rounded_rectangle_1_7.png) 195px 1650px no-repeat, url(../Img/layers.png) border: 1px solid #000 no-repeat
+
+.top{
+	width: 1190px;
+	height: 1800px;
+	background: ;
+	margin: 220px;
+}
+
+.title{
+	Text: Travel;
+	opacity: 0.6;f
+	ont-family: Arial;
+	font-size: 14px;
+	line-height: 40px;
+	font-weight: 400;
+	text-transform: uppercase;
+	letter-spacing: 0.2em;
+	color: #273d46;
+	margin: 67px 0 0 0;
+	text-align: center;
+}
+
+.subtitle{
+	width: 721px;
+	font-family: 'Times New Roman';
+	font-size: 36px;
+	line-height: 50px;
+	font-weight: 400;
+	color: #273d46;
+	margin: 26px 0 0 220px;
+	text-align: center;
+}
+
+.text{
+	font-family: 'Times New Roman';
+	font-size: 24px;
+	line-height: 40px;
+	font-weight: 400;
+	color: #273d46;
+	margin: 107px 0 0 200px;
+	width: 736px;
+	text-align: left;
+}
+
+.text2{
+	font-family: 'Times New Roman';
+	font-size: 24px;
+	line-height: 40px;
+	font-weight: 400;
+	color: #273d46;
+	margin: 40px 0 64px 200px;
+	width: 736px;
+	text-align: left;
+}
+
+.list{
+	margin: 0 0 0 200px;
+}
+
+.list li{
+	font-size: 20px;
+	font-family: Arial;
+	background: url(../Img/check_icon_37.png) left 5px no-repeat;
+	padding: 0 0 30px 30px;
+}
+
+.li2{
+	font-style: italic;
+	color: #80b7b3;
+}
+
+.li3{
+	font-weight: 700;
+	color: #273d46;
+}
+
+.li4{
+	opacity: 0.3;
+	text-decoration: line-through;
+	color: #273d46;
+}
+
+.button{
+	margin: 83px 0 0 240px;
+	line-height: 40px;
+	text-transform: uppercase;
+	letter-spacing: 0.2em;
+	color: #ffffff;;
+}
+
+.button_arrow{
+	margin: -28px 0 0 365px;
+}
